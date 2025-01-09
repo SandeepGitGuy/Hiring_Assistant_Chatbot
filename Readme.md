@@ -171,6 +171,13 @@ The chatbot's prompt engineering was carefully crafted to create a structured ye
 
 ---
 
+## 📖 Documentation
+Please refer to the following links for more information:
+- [Gradio](https://www.gradio.app/docs/gradio/interface)
+- [OpenAI](https://platform.openai.com/docs/)
+
+---
+
 ## 🛡️ License  
 Distributed under the MIT License. See the `LICENSE` file for details.  
 
