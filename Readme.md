@@ -7,7 +7,7 @@ An Intelligent Chatbot for Seamless Technical Screening
 ---
 
 ## ✨ About the Project/ Project Overview
-The AI Technical Interviewer is a next-generation solution for conducting initial technical interviews. Designed with Python and powered by OpenAI's GPT-4, it offers an interactive and adaptive interview experience tailored to a candidate's technical expertise.
+The AI Technical Interviewer is a next-generation solution for conducting initial technical interviews. Designed with Python and powered by OpenAI's GPT-4o/GPT-4o-mini, it offers an interactive and adaptive interview experience tailored to a candidate's technical expertise.
 
 ---
 
